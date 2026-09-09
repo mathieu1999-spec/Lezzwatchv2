@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base window colors used only for the pre-Compose window background / splash moment.
+         All real theming (including the Light/Dark/System setting) happens in Compose's
+         MaterialTheme — see ui/theme/Theme.kt. -->
+    <!-- Pure black: Lezzwatch uses a true AMOLED-black dark theme, matching the Compose
+         dark color scheme in ui/theme/Color.kt. -->
+    <color name="lezzwatch_background">#000000</color>
+    <color name="lezzwatch_surface">#0A0A0A</color>
+    <color name="lezzwatch_accent">#7C5CFF</color>
+    <color name="lezzwatch_player_background">#000000</color>
+</resources>
